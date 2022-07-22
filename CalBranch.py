@@ -2,7 +2,9 @@ def mul(a,b):  #곱셈 승렬
     return a*b
 
 
-
+def div(a,b): # 나눗셈 원근 
+    if(b!=0):
+        return a/b
 
 
 
