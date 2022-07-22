@@ -1,6 +1,8 @@
 
 
-
+def div(a,b): # 나눗셈 원근 
+    if(b!=0):
+        return a/b
 
 
 
