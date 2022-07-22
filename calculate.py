@@ -3,6 +3,11 @@ def add(a,b): # 덧셈 시인
 def sub(a,b): # 뺄셈 시인
     return a-b
 
+def mul(a,b):  #곱셈 승렬
+    return a*b
+
+
+
 
 def run():  
     while True:
