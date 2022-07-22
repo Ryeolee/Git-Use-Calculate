@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def mul(a,b):  #곱셈 승렬
     return a*b
 
@@ -8,6 +9,12 @@ def div(a,b): # 나눗셈 원근
 
 
 
+=======
+def add(a,b): # 덧셈 시인
+    return a+b
+def sub(a,b): # 뺄셈 시인
+    return a-b
+>>>>>>> seein
 
 
 def run():  
