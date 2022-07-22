@@ -40,3 +40,5 @@ def run():
         elif(menu==5):  
             print("종료")
             break
+
+run()
