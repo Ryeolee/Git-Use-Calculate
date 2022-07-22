@@ -1,9 +1,7 @@
-
-
-
-
-
-
+def add(a,b): # 덧셈 시인
+    return a+b
+def sub(a,b): # 뺄셈 시인
+    return a-b
 
 
 def run():  
