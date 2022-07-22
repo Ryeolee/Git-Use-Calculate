@@ -1,3 +1,5 @@
+def mul(a,b):  #곱셈 승렬
+    return a*b
 
 
 
